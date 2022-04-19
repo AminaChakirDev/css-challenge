@@ -41,3 +41,23 @@ ol li {
     list-style-type: "\1F44D";
 }
 
+.steps-container {
+    margin-bottom: 40px;
+}
+
+table {
+    width: 80%;
+    margin: auto;
+}
+
+table,
+td {
+    border: 1px solid #333;
+    font-size: 40px;
+}
+
+thead,
+tfoot {
+    background-color: #333;
+    color: #fff;
+}
